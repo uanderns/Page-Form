@@ -1,0 +1,63 @@
+body{
+
+    margin:0;
+
+}
+
+.topoint{
+
+    width: 100%;
+    height:195px ;
+    margin: auto;
+    background-color: blue;
+
+}
+
+.container{
+
+    width: 700px;
+    height: 500px;
+    background-color: cadetblue;
+    margin: 0 auto 0 auto;
+    margin-top: 40px;
+     
+    
+}
+
+div.box {
+    margin:0 auto;
+    width:70%;
+    background: cornflowerblue;
+    position: relative;
+    top: 50px;
+    border:1px solid #262626;
+}
+
+div.box h1 {
+    
+    font-size:18px;
+    text-transform:uppercase;
+    padding:5px 5px 5px;
+    border-bottom:1px solid #161712;
+    
+}
+
+
+
+
+
+
+div.box .button{
+    
+    padding: 4px 7px;
+    background:green;
+    border:0px;
+  
+}
+
+
+.footer{
+
+    
+    
+}
