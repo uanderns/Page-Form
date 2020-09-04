@@ -25,8 +25,11 @@ body{
 }
 
 div.box {
+
+    padding:10px;
     margin:0 auto;
     width:70%;
+    height: auto;
     background: cornflowerblue;
     position: relative;
     top: 50px;
@@ -43,16 +46,12 @@ div.box h1 {
 }
 
 
-
-
-
-
 div.box .button{
     
     padding: 4px 7px;
     background:green;
     border:0px;
-  
+    float: right;
 }
 
 
